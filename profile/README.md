@@ -1,5 +1,7 @@
 # Nghiệp vụ Hệ thống App Cho Thuê Tủ Đựng Đồ Công Cộng
 
+## ERD [`Click me to seen`](https://drive.google.com/file/d/1FvDr_vZBGPqps-GLSWgW20FN28-9jhQy/view?usp=sharing)
+
 ## 1. Nghiệp vụ của User (Khách hàng)
 
 ### Quản lý tài khoản
@@ -19,7 +21,7 @@
 - Trả tủ khi kết thúc
 
 ### Thanh toán & hóa đơn
-- Thanh toán (ví điện tử, QR Pay, thẻ ngân hàng)
+- Thanh toán (ZaloPay)
 - Xem hóa đơn / lịch sử giao dịch
 - Nhận hoàn tiền nếu lỗi
 
